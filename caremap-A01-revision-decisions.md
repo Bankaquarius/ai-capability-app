@@ -56,3 +56,8 @@
 | (หมายเหตุ) | Serum tryptase > (1.2 × baseline) + 2 µg/L สนับสนุนการวินิจฉัย แต่ค่าปกติไม่ได้ตัดการวินิจฉัยออก |
 
 เหตุผลของแบบ B: GA²LEN 2024 ระบุว่าไม่มี reference-standard diagnostic test → เกณฑ์เป็นการบอก "likelihood" ไม่ใช่ระดับยืนยัน และ JTFPP 2023: "The diagnosis is clinical—there are no quintessential symptoms, findings, or laboratory markers"
+
+### ข้อ 9 — ความรุนแรง (Severity) ✅
+- ที่มาของเดิม: ช่อง mild-moderate/severe ไม่พบใน guideline ที่ใช้; เชิงอรรถ severe* แปลงจากนิยาม WAO 2019/2020 (JTFPP 2023 Table 4, Box 1); Thai CPG 2560 ไม่มีระบบแบ่งความรุนแรง
+- เปรียบเทียบแล้ว (Ring & Messmer / Brown 2004 / Dribin 2021) → **เลือก Brown 2004**
+- ใหม่: คง ☐ mild-moderate ☐ severe และเติมเกณฑ์ **severe = มีข้อใดข้อหนึ่ง: SpO2 ≤ 92% on room air หรือเขียว / ความดันโลหิตต่ำ (SBP < 90 mmHg) / สับสน หมดสติ ระดับความรู้สึกตัวเปลี่ยน หรือปัสสาวะ-อุจจาระราด** (Brown 2004; JTFPP 2023 Table 9)
