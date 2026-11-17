@@ -85,3 +85,8 @@
 ### ข้อ 14 — Step 2 เกณฑ์เริ่ม adrenaline IV drip ✅
 - เดิม: หลังได้ Adrenaline IM ≥ 3 doses → ใหม่: **หลังได้ Adrenaline IM 2 doses** (GA²LEN 2024: "Failure to respond to 2 doses ... must prompt urgent escalation"; Thai CPG 2560: IM ซ้ำได้อีก 1–2 ครั้ง)
 - ไม่เพิ่ม pump/monitor; สูตรผสมยาคงเดิม (ตรง Thai CPG)
+
+### ข้อ 15 — Step 3 ✅
+- เพิ่ม **☐ ความดันยังต่ำ: พิจารณา vasopressor เช่น dopamine 2–20 mcg/kg/min ให้ SBP > 90 mmHg** (Thai CPG 2560)
+- Glucagon: เติม **"ผู้ป่วยที่ได้ β-blocker:"** ขนาดยาคงเดิม (Thai CPG 2560; WAO 2020)
+- เพิ่ม **☐ Bradycardia: atropine 0.5 mg IV ซ้ำได้ทุก 3–5 นาที (สูงสุด 3 mg)** (Thai CPG 2560 ตารางที่ 4)
