@@ -118,5 +118,11 @@
 - ไม่ให้ทุกราย (บางรายอาจไม่ได้แพ้จริง) — พิจารณา case by case
 - เดิม: เตรียม adrenaline แบบพกพาให้กลับบ้าน ในกรณีไม่สามารถหลีกเลี่ยงสารก่อภูมิแพ้ได้ หรือมีโอกาสเกิด anaphylaxis ได้บ่อย
 - ใหม่ (หัวข้อแยก "Adrenaline แบบพกพา"):
-  - **☐ ให้คำแนะนำเรื่อง adrenaline แบบพกพา (EpiPen)**
-  - **☐ พิจารณาจ่ายเป็นรายๆ ร่วมกับ allergy เมื่อมั่นใจในการวินิจฉัย, หลีกเลี่ยงสารไม่ได้, อาการรุนแรง — discuss risk and benefit กับผู้ป่วย** (สอดคล้อง JTFPP 2023 Rec 23: shared decision-making)
+  - **☐ ให้คำแนะนำเรื่อง adrenaline แบบพกพา (auto-injector / prefilled syringe)**
+  - **☐ นัดพบ allergy clinic เพื่อประเมินและพิจารณาจ่าย adrenaline แบบพกพา**
+  - เหตุผล: prefilled syringe จ่ายโดย allergy เท่านั้น; ไม่ต้องการให้ ward ต้อง consult IPD ทุกเคส — ขอแค่มีนัด; หลีกเลี่ยงคำกำกวม เช่น "มั่นใจในการวินิจฉัย"
+
+### ข้อ 22 — การพยาบาล ✅
+- **☐ Record BP, HR, RR, SpO2 และระดับความรู้สึกตัว ทุก 15 นาทีในช่วงแรก จนคงที่ จึงวัดทุก 1 ชม. แล้วทุก 4 ชม.** (WAO 2020: "frequent and regular intervals"; ตัวเลขเป็นข้อเสนอของผู้ร่าง)
+- ☐ Monitor oxygen saturation (คงเดิม)
+- **☐ เฝ้าระวังอาการกลับเป็นซ้ำ (biphasic) และรายงานแพทย์ทันที โดยเฉพาะในรายที่ severe, ได้ adrenaline > 1 dose หรือไม่ทราบสาเหตุ** (JTFPP 2023 Rec 1: severe, > 1 dose epinephrine, unknown trigger เป็นปัจจัยเสี่ยง biphasic)
