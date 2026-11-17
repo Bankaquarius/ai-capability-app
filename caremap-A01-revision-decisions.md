@@ -81,3 +81,7 @@
 ### ข้อ 13 — Adrenaline IM (Step 1) ✅ (ขนาดยา)
 - เดิม: 0.5 ml IM → ใหม่: **adrenaline (1:1000) 0.3–0.5 ml IM at anterolateral mid-thigh** (ผู้ใช้เลือกแบบไม่ใช้ ml/kg เพื่อไม่ให้สับสน; ช่วงตาม Thai CPG 2560: ผู้ใหญ่ 0.2–0.5 ml, น้ำหนักปกติ/ตั้งครรภ์ 0.3 ml)
 - ระยะให้ซ้ำ: **คงเดิม ทุก 5–10 นาที** (guideline ใช้ 5–15 นาที; ผู้ใช้เลือกคงเดิม — อยู่ในช่วงของ guideline)
+
+### ข้อ 14 — Step 2 เกณฑ์เริ่ม adrenaline IV drip ✅
+- เดิม: หลังได้ Adrenaline IM ≥ 3 doses → ใหม่: **หลังได้ Adrenaline IM 2 doses** (GA²LEN 2024: "Failure to respond to 2 doses ... must prompt urgent escalation"; Thai CPG 2560: IM ซ้ำได้อีก 1–2 ครั้ง)
+- ไม่เพิ่ม pump/monitor; สูตรผสมยาคงเดิม (ตรง Thai CPG)
