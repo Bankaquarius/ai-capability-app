@@ -33,7 +33,7 @@
 - เดิม: ปวดท้องอย่างรุนแรง คลื่นไส้ อาเจียนหลายรอบ
 - ใหม่: **ปวดท้องบิดอย่างรุนแรง อาเจียนซ้ำหลายครั้ง ท้องเสีย**
 
-### ข้อ 8 — ระดับความแน่นอน (PROVISIONAL / PROBABLE / DEFINITE) ⏳ รอ อ.เจตทะนง เลือก
+### ข้อ 8 — ระดับความแน่นอน (PROVISIONAL / PROBABLE / DEFINITE) ✅ ตัดสินแล้ว (ดู "ผลการตัดสินใจ" ท้ายข้อ)
 ปัญหาของเดิม:
 - PROBABLE = "ตอบสนองต่อการรักษา" → ขัดกับ JTFPP 2023 Recommendation 7: *"neither the clinical decision to administer epinephrine nor the clinical response to epinephrine be used as a surrogate marker to establish a diagnosis of anaphylaxis"*
 - DEFINITE = "ตรวจพบสาเหตุ" → idiopathic anaphylaxis (ไม่พบสาเหตุ) ยังเป็น anaphylaxis แน่นอนได้ (WAO 2020: 6.5–35% ของผู้ป่วย)
@@ -56,6 +56,13 @@
 | (หมายเหตุ) | Serum tryptase > (1.2 × baseline) + 2 µg/L สนับสนุนการวินิจฉัย แต่ค่าปกติไม่ได้ตัดการวินิจฉัยออก |
 
 เหตุผลของแบบ B: GA²LEN 2024 ระบุว่าไม่มี reference-standard diagnostic test → เกณฑ์เป็นการบอก "likelihood" ไม่ใช่ระดับยืนยัน และ JTFPP 2023: "The diagnosis is clinical—there are no quintessential symptoms, findings, or laboratory markers"
+
+**ผลการตัดสินใจข้อ 8:**
+| ระดับ | เกณฑ์ |
+|---|---|
+| PROVISIONAL | เข้าเกณฑ์ทางคลินิก (ก. หรือ ข.) |
+| PROBABLE | (ตามแบบ A) เข้าเกณฑ์ PROVISIONAL และแยกภาวะที่คล้ายกันออกแล้ว เช่น vasovagal reaction, acute asthma, panic attack, flushing syndrome, hereditary angioedema (JTFPP 2023 Table 10) |
+| DEFINITE | (ผู้ใช้กำหนด) เข้าเกณฑ์ PROVISIONAL และมีข้อใดข้อหนึ่ง: (1) ทราบสารก่อภูมิแพ้ที่ได้รับการวินิจฉัยยืนยันโดยแพทย์ allergy หรือ (2) มีหลักฐาน serum tryptase สูงขึ้น > (1.2 × baseline) + 2 µg/L ในการแพ้ครั้งนี้หรือครั้งก่อน |
 
 ### ข้อ 9 — ความรุนแรง (Severity) ✅
 - ที่มาของเดิม: ช่อง mild-moderate/severe ไม่พบใน guideline ที่ใช้; เชิงอรรถ severe* แปลงจากนิยาม WAO 2019/2020 (JTFPP 2023 Table 4, Box 1); Thai CPG 2560 ไม่มีระบบแบ่งความรุนแรง
@@ -132,4 +139,4 @@
 - เรื่องยา ACEI / β-blocker / TCA: คงเดิม
 
 ---
-## สถานะ: ครบทุกข้อ (1–23) — เหลือข้อ 8 รอ อ.เจตทะนง เลือกแบบ A/B
+## สถานะ: ครบทุกข้อ (1–23)
