@@ -90,3 +90,8 @@
 - เพิ่ม **☐ ความดันยังต่ำ: พิจารณา vasopressor เช่น dopamine 2–20 mcg/kg/min ให้ SBP > 90 mmHg** (Thai CPG 2560)
 - Glucagon: เติม **"ผู้ป่วยที่ได้ β-blocker:"** ขนาดยาคงเดิม (Thai CPG 2560; WAO 2020)
 - เพิ่ม **☐ Bradycardia: atropine 0.5 mg IV ซ้ำได้ทุก 3–5 นาที (สูงสุด 3 mg)** (Thai CPG 2560 ตารางที่ 4)
+
+### ข้อ 16 — Adjunct: ออกซิเจน / ยาพ่น ✅
+- **☐ Oxygen supplement ถ้าหายใจลำบากหรือ SpO2 ≤ 92%**
+- ☐ พิจารณา B2 agonist พ่นถ้ามี Bronchospasm (คงเดิม)
+- เพิ่ม **☐ ถ้ามี stridor หรือ upper airway obstruction: พิจารณาพ่น adrenaline** (WAO 2020)
