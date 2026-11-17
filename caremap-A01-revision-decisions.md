@@ -99,3 +99,8 @@
 ### ข้อ 17 — Antihistamine ✅
 - H1: **☐ H1 blocker antihistamine IV (chlorpheniramine 10 มก) ทุก 6 ชั่วโมง (ให้หลัง adrenaline; ใช้แทน adrenaline ไม่ได้)** (Thai CPG 2560; WAO 2020)
 - H2: famotidine (20) 1 tab po → **famotidine 20 mg IV หรือ PO**
+
+### ข้อ 18 — Corticosteroid ✅
+- เดิม: Hydrocortisone 200 มก. IV หรือ dexamethasone 5 มก. IV ถ้ายังไม่ดีขึ้น
+- ใหม่ (ตามที่ผู้ใช้กำหนด): **☐ พิจารณา Hydrocortisone 200 mg IV หรือ dexamethasone 5-10 mg IV ในผู้ป่วยที่รุนแรง, มีโรคหืด หรือเคยได้ steroid ต่อเนื่อง (ไม่ใช่ยาตัวแรก)**
+- ข้อบ่งชี้ตาม Thai CPG 2560; หมายเหตุ: Thai CPG ระบุ dexamethasone 0.6 mg/kg (สูงสุด 16 mg) — ขนาด 5-10 mg เป็นการตัดสินใจของผู้ใช้
