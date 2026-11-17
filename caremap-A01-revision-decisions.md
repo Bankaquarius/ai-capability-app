@@ -113,3 +113,10 @@
 - การรักษาต่อ (IV fluid/steroid/antihistamine, antihistamine 3–5 วัน): คงเดิม
 - **ถ้าไม่ทราบสาเหตุ**: คงเดิม (ไม่เติม 4–6 สัปดาห์ / DPT / ส่งต่อ)
 - **ถ้าทราบสาเหตุ**: "นัดทำ desensitization หรือ allergen immunotherapy ถ้าหลีกเลี่ยงสารนั้นไม่ได้" → **☐ นัดพบแพทย์ allergy / notify allergy for further management**
+
+### ข้อ 21 — Adrenaline แบบพกพา ✅
+- ไม่ให้ทุกราย (บางรายอาจไม่ได้แพ้จริง) — พิจารณา case by case
+- เดิม: เตรียม adrenaline แบบพกพาให้กลับบ้าน ในกรณีไม่สามารถหลีกเลี่ยงสารก่อภูมิแพ้ได้ หรือมีโอกาสเกิด anaphylaxis ได้บ่อย
+- ใหม่ (หัวข้อแยก "Adrenaline แบบพกพา"):
+  - **☐ ให้คำแนะนำเรื่อง adrenaline แบบพกพา (EpiPen)**
+  - **☐ พิจารณาจ่ายเป็นรายๆ ร่วมกับ allergy เมื่อมั่นใจในการวินิจฉัย, หลีกเลี่ยงสารไม่ได้, อาการรุนแรง — discuss risk and benefit กับผู้ป่วย** (สอดคล้อง JTFPP 2023 Rec 23: shared decision-making)
