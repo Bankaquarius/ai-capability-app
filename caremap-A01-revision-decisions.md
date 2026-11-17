@@ -95,3 +95,7 @@
 - **☐ Oxygen supplement ถ้าหายใจลำบากหรือ SpO2 ≤ 92%**
 - ☐ พิจารณา B2 agonist พ่นถ้ามี Bronchospasm (คงเดิม)
 - เพิ่ม **☐ ถ้ามี stridor หรือ upper airway obstruction: พิจารณาพ่น adrenaline** (WAO 2020)
+
+### ข้อ 17 — Antihistamine ✅
+- H1: **☐ H1 blocker antihistamine IV (chlorpheniramine 10 มก) ทุก 6 ชั่วโมง (ให้หลัง adrenaline; ใช้แทน adrenaline ไม่ได้)** (Thai CPG 2560; WAO 2020)
+- H2: famotidine (20) 1 tab po → **famotidine 20 mg IV หรือ PO**
