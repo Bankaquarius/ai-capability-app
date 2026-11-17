@@ -126,3 +126,10 @@
 - **☐ Record BP, HR, RR, SpO2 และระดับความรู้สึกตัว ทุก 15 นาทีในช่วงแรก จนคงที่ จึงวัดทุก 1 ชม. แล้วทุก 4 ชม.** (WAO 2020: "frequent and regular intervals"; ตัวเลขเป็นข้อเสนอของผู้ร่าง)
 - ☐ Monitor oxygen saturation (คงเดิม)
 - **☐ เฝ้าระวังอาการกลับเป็นซ้ำ (biphasic) และรายงานแพทย์ทันที โดยเฉพาะในรายที่ severe, ได้ adrenaline > 1 dose หรือไม่ทราบสาเหตุ** (JTFPP 2023 Rec 1: severe, > 1 dose epinephrine, unknown trigger เป็นปัจจัยเสี่ยง biphasic)
+
+### ข้อ 23 — การให้ความรู้ผู้ป่วย ✅
+- เพิ่ม (วันที่ 2) **☐ สอนอาการเตือนของ anaphylaxis และสิ่งที่ต้องทำเมื่อเกิดอาการ (ไปโรงพยาบาลทันที / ใช้ adrenaline ถ้ามี)** (Thai CPG 2560: anaphylaxis emergency action plan)
+- เรื่องยา ACEI / β-blocker / TCA: คงเดิม
+
+---
+## สถานะ: ครบทุกข้อ (1–23) — เหลือข้อ 8 รอ อ.เจตทะนง เลือกแบบ A/B
