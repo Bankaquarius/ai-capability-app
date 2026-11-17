@@ -77,3 +77,6 @@
 - รวม 3 ที่ (IV fluid resuscitation ด้านบน / Step 2 "ให้ IV fluid resuscitation" / Adjunct "NSS 1000 ml IV drip") → **เหลือข้อเดียวด้านบน**:
   **☐ เปิดเส้นเลือดด้วยเข็มขนาดใหญ่ ถ้าความดันต่ำให้ NSS หรือ RLS 10–20 ml/kg IV ภายใน 5–10 นาที (ผู้ใหญ่ประมาณ 500–1,000 ml) ให้ซ้ำได้ ปรับตามความดัน (ระวังในผู้ป่วยโรคหัวใจหรือไตวาย)** (Thai CPG 2560 ตารางที่ 4; WAO 2020)
 - ลบ "ให้ IV fluid resuscitation" ใน Step 2 และ "NSS 1000 ml IV drip" ใน Adjunct
+
+### ข้อ 13 — Adrenaline IM (Step 1) ✅ (ขนาดยา)
+- เดิม: 0.5 ml IM → ใหม่: **adrenaline (1:1000) 0.3–0.5 ml IM at anterolateral mid-thigh** (ผู้ใช้เลือกแบบไม่ใช้ ml/kg เพื่อไม่ให้สับสน; ช่วงตาม Thai CPG 2560: ผู้ใหญ่ 0.2–0.5 ml, น้ำหนักปกติ/ตั้งครรภ์ 0.3 ml)
